@@ -61,5 +61,3 @@ PRs welcome. If you’re adding a new subsystem, please include:
 - basic tests (if possible),
 - notes in `docs/`.
 
-## License
-Add your license here (e.g., MIT/Apache-2.0/GPL-3.0) and include a `LICENSE` file.
