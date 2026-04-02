@@ -1,4 +1,4 @@
-# esp32-emulator-
+# esp32-emulator
 
 ESP32 emulator playground / experiments.
 
